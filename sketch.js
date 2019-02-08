@@ -11,7 +11,7 @@ radio = createRadio();radio.position(1030,10);
 //radio2 = createRadio();
 radio.class("bord");
   radio.option('Set 1',1);
-  radio.option('Set 1',2);
+  radio.option('Set 2',2);
   radio.option('Set 3',3);
   radio.option('Set 4',4);
   radio.option('Reset',5);
