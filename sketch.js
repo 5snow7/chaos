@@ -10,11 +10,11 @@ radio = createRadio();radio.position(1030,10);
 //radio1 = createRadio();
 //radio2 = createRadio();
 radio.class("bord");
-  radio.option('julia',1);
-  radio.option('juul',2);
-  radio.option('julie',3);
-  radio.option('mand',4);
-  radio.option('reset',5);
+  radio.option('Set 1',1);
+  radio.option('Set 1',2);
+  radio.option('Set 3',3);
+  radio.option('Set 4',4);
+  radio.option('Set 5',5);
   radio.style('width', '60px');
  
 can.mousePressed(chg);
