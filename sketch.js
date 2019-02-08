@@ -14,7 +14,7 @@ radio.class("bord");
   radio.option('Set 1',2);
   radio.option('Set 3',3);
   radio.option('Set 4',4);
-  radio.option('Set 5',5);
+  radio.option('Reset',5);
   radio.style('width', '60px');
  
 can.mousePressed(chg);
